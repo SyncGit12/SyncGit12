@@ -1,3 +1,5 @@
+![visit counter bullshit](https://count.getloli.com/get/@SyncGit12.github.readme?theme=rule34)
+
 hello i like fnf
 
 
