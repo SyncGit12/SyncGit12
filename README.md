@@ -6,8 +6,6 @@ im a dumbass coder
 
 has autism
 
-and ye
-
 ## stats
 ![Lunar's GitHub stats](https://github-readme-stats.vercel.app/api?username=SyncGit12&show_icons=true&theme=synthwave)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=SyncGit12&theme=synthwave&hide_border=false)
