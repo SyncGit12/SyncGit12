@@ -1,10 +1,12 @@
 ![visit counter bullshit](https://count.getloli.com/get/@SyncGit12.github.readme?theme=rule34)
 
-hi, welcome
+Hello, welcome!
 
-im a dumbass coder
+I'm a _dumbass_ coder
 
-has autism
+Has [_autism_](https://en.wikipedia.org/wiki/Autism)
+
+Proud [_Linux_](https://github.com/torvalds/linux) user
 
 ## stats
 ![Lunar's GitHub stats](https://github-readme-stats.vercel.app/api?username=SyncGit12&show_icons=true&theme=synthwave)
