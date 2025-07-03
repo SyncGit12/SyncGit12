@@ -1,17 +1,38 @@
-![visit counter bullshit](https://count.getloli.com/get/@SyncGit12.github.readme?theme=rule34)
+<div align="center">
+<p align="center">
+  <img src="7410-izumi-konata.png" width="400">
+  
+<p align="center">
+  
+  <img src="https://count.getloli.com/get/@SyncGit12.github.readme?theme=rule34">
+  
+</p>
+  <div align="center">
+    <samp>
+      <b>
+        lunar@archlinux:~$
+      </b>
+    </samp>
+    <br>
+  </div>
+  </p>
+</div>
 
-Hello, welcome!
+<div align="center">
+  
+_Hello, welcome!_
 
-I'm a _dumbass_ coder
+_I'm a **dumbass** coder_
 
-Has [_autism_](https://en.wikipedia.org/wiki/Autism)
+_Has [autism](https://en.wikipedia.org/wiki/Autism)_
 
-Proud [_Linux_](https://github.com/torvalds/linux) user
+_Proud [Linux](https://github.com/torvalds/linux) user_
 
-## stats
+## _stats_
 ![Lunar's GitHub stats](https://github-readme-stats.vercel.app/api?username=SyncGit12&show_icons=true&theme=synthwave)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=SyncGit12&theme=synthwave&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SyncGit12&layout=compact&show_icons=true&theme=synthwave)
 
-## trophies
+## _trophies_
 ![](https://github-profile-trophy.vercel.app/?username=SyncGit12&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
+</div>
